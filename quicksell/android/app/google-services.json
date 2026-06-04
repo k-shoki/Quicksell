@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4127723423",
+    "project_id": "quicksell-231fd",
+    "storage_bucket": "quicksell-231fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4127723423:android:dbeea9ccf9830534d1b7aa",
+        "android_client_info": {
+          "package_name": "com.example.quicksell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIfntV89kJq4GdZaLK8fbafmBD8D7f7zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
